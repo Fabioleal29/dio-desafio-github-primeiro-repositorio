@@ -1,4 +1,5 @@
-abrir colchetes [] na frase escrita e depois parenteses para adicionar um link
+Alguns comandos para acostumar a usar!
+Abrir colchetes [] na frase escrita e depois parenteses para adicionar um link
 ls listar arquivos
 pwd caminho
 
