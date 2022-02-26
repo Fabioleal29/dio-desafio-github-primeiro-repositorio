@@ -1,3 +1,7 @@
+# Alguns comandos de uso no Git!
+
+
+
 abrir colchetes [] na frase escrita e depois parenteses para adicionar um link
 ls listar arquivos
 pwd caminho
@@ -10,9 +14,9 @@ git push origin master para adicionar ao git hub
 git clone para copiar repositório
 
 git hub ssh key 
-ssh-keygen -t ed25519 -C fabioleal7@hotmail.com
+ssh-keygen -t ed25519 -C 
 
-estartar o projeto eval $(ssh-agent -s)
+startar o projeto eval $(ssh-agent -s)
 
 ssh-add id_ passar a chave privada ao agente
 
