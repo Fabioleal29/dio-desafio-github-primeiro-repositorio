@@ -1,13 +1,12 @@
-<<<<<<< HEAD
-# Alguns comandos de uso no Git!
 
+# Alguns comandos de uso no Git!
 
 
 abrir colchetes [] na frase escrita e depois parenteses para adicionar um link
 =======
 Alguns comandos para acostumar a usar!
 Abrir colchetes [] na frase escrita e depois parenteses para adicionar um link
->>>>>>> 41b89f13b21af41023dffbd3e75eea7214f1b679
+
 ls listar arquivos
 pwd caminho
 
